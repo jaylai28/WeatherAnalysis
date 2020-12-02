@@ -1,2 +1,2 @@
 # WeatherAnalysis
-Analyse the data of weather in Australia in 2020. Build a few classification models to predict the occurrence of rain tomorrow.
+The project was aimed to analyse the weather data set in Australia in 2020 to predict the occurrence of rain tomorrow using R software. Data pre-processing is performed to make the data set suitable for model fitting. The project identified the most important variables in predicting the occurrence of rain tomorrow and built a few classification models using the most important variables.
